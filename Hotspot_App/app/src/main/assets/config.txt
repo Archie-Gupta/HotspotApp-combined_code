@@ -1,0 +1,6 @@
+MAC Address       Type    Hotspot_to_connect 
+34:bb:26:a1:eb:41 client  MiPhone
+00:0a:f5:89:89:ff hotspot
+80:01:84:2c:0f:20 client xperia_l
+74:51:ba:c7:c8:47 hotspot
+98:ff:d0:37:da:af client MiPhone
